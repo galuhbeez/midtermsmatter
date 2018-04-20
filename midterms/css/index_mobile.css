@@ -1,0 +1,49 @@
+body {
+    background-color: #FFFFFF;
+    font-family: 'RobotoRegular', 'Droid Sans', 'Segoe UI', Segoe, 'San Francisco', 'Helvetica Neue', Helvetica, Arial, Geneva, sans-serif;
+    font-size: 14px;
+    height: 100%;
+    margin: 0px;
+    padding: 12px 12px 12px 12px;
+}
+
+h1 {
+    font-size:24px;
+    font-weight:bold;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+
+input,select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+fieldset {
+    width: 100%;
+    margin: auto;
+}
+
+legend {
+    font-weight:bold;
+    font-size:20px;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+
+label {
+    display: block;
+    text-align: left;
+}
